@@ -54,3 +54,5 @@
 | **path_provider**          | **本地路径**       |
 | **permission_handler**     | **权限**         |
 
+
+网络不好的可以点这里：https://gitee.com/null_604_6104/flutter_reading_app
